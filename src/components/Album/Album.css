@@ -1,0 +1,25 @@
+.album {
+  background-color: #111111; 
+  color: #ffffff; 
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.album-section {
+  margin-bottom: 20px;
+}
+
+.album-section h3 {
+  color: #ffcc00;
+}
+
+.sticker {
+  background-color: #333333; 
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.sticker p {
+  margin: 5px 0;
+}

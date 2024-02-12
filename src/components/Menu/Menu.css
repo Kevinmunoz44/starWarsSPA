@@ -1,0 +1,37 @@
+nav {
+  background-color: #111111;
+  padding: 6px;
+  display: flex;
+  width: 100%;
+  position: sticky;
+  top: 0;
+  justify-content: space-between; 
+  align-items: center;
+  z-index: 1000; 
+}
+
+.logo {
+  width: 70px; 
+  height: auto; 
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
+  margin-right: 20px;
+}
+
+li a {
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+li a:hover {
+  color: #ffcc00; 
+}

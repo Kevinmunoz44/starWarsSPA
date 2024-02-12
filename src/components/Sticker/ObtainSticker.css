@@ -1,0 +1,18 @@
+.obtained-stickers {
+  margin-bottom: 20px;
+}
+
+.obtained-stickers h3 {
+  color: #ffcc00;
+}
+
+.sticker {
+  background-color: #333333; 
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.sticker p {
+  margin: 5px 0;
+}
